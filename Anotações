@@ -1,0 +1,4 @@
+ = recebe / == comparação / 
+ 
+ numero = 3
+ if(numero == "3") {
